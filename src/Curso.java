@@ -1,5 +1,5 @@
 class Curso {
     public static void main(String[] args) {
-        System.out.println("Curso de Java");
+        System.out.println("Primeiro Arquivo Curso de Java");
     }
 }
